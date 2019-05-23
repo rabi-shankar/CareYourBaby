@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "440386365724",
+    "firebase_url": "https://care-your-baby.firebaseio.com",
+    "project_id": "care-your-baby",
+    "storage_bucket": "care-your-baby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440386365724:android:5c79bacdf1592650",
+        "android_client_info": {
+          "package_name": "com.example.rabi.careyourbaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440386365724-ke27hs11q1274u03cf4dodd589bjmkqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rabi.careyourbaby",
+            "certificate_hash": "88CD60F2D409D5C356C3C55B8B13DC81DB05DDAA"
+          }
+        },
+        {
+          "client_id": "440386365724-88v4otqaduu5r9i7g1ese8fqe9rn98ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmvPaPRISWaExPYf2SyGImn0eRE_ZHv0w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440386365724-88v4otqaduu5r9i7g1ese8fqe9rn98ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
