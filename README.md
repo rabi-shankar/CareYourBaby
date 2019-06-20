@@ -11,6 +11,12 @@ Even though if the child is not aware that if he/she is in danger the app will n
 
 ## App UI
 
-Screenshot 1             |  Screenshot 2         |Screenshot 3     |Screenshot 4  
+Introduction Screenshot          |  Home Screenshot         |Menu Screenshot     |Settings Screenshot  
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![UI1](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-09-42-433.jpeg)  |  ![UI2](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-09-42-433.jpeg) | ![UI3](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-09-42-433.jpeg) | ![UI4](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-09-42-433.jpeg) 
+![UI1](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-09-42-433.jpeg)  |  ![UI2](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-10-16-474.jpeg) | ![UI3](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-10-25-835.jpeg) | ![UI4](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-11-30-185.jpeg) 
+
+
+
+All Set Screenshot          |  Map Screenshot         |Map Option Screenshot     |Old Location Screenshot  
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![UI1](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-12-18-214.jpeg)  |  ![UI2](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-12-53-146.jpeg) | ![UI3](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-13-07-051.jpeg) | ![UI4](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-04-18-13-22-42-010.jpeg) 
