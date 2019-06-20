@@ -11,3 +11,8 @@ Even though if the child is not aware that if he/she is in danger the app will n
 
 ## App UI
 ![UI1](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-09-42-433.jpeg)
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![UI1](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-09-42-433.jpeg)  |  ![UI1](https://github.com/rabi-shankar/CareYourBaby/blob/master/UI/Screenshot_2017-03-16-19-09-42-433.jpeg)
