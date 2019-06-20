@@ -7,3 +7,6 @@ Now a day’s both parent are working outside for their respective job, so becau
 Even though if the child is not aware that if he/she is in danger the app will notify the parents if the child goes out of a certain defined region outside of his school and home. In this way the child can be located if he/she goes missing. 
 
 ![Architecture](https://raw.githubusercontent.com/rabi-shankar/CareYourBaby/master/architecture.PNG)
+
+
+##App UI
