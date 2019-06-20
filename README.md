@@ -9,4 +9,4 @@ Even though if the child is not aware that if he/she is in danger the app will n
 ![Architecture](https://raw.githubusercontent.com/rabi-shankar/CareYourBaby/master/architecture.PNG)
 
 
-##App UI
+## App UI
